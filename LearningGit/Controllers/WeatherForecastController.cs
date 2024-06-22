@@ -15,7 +15,7 @@ namespace LearningGit.Controllers
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
-            //modified this files and added commment
+            //modified this files and added commment new
             _logger = logger;
         }
 
