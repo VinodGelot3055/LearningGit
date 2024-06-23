@@ -24,6 +24,7 @@ namespace LearningGit.Controllers
            // This is for reset 1
            //this is Forbid reset 2
            //this is for reset 3
+           //r4
         }
 
         [HttpGet]
