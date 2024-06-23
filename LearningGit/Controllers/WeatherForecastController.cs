@@ -22,6 +22,7 @@ namespace LearningGit.Controllers
             _logger = logger;
             //This changes for the feature branch second commite
            // This is for reset 1
+           //this is Forbid reset 2
         }
 
         [HttpGet]
