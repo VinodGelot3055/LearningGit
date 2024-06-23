@@ -19,6 +19,7 @@ namespace LearningGit.Controllers
             // this is for dev branch new
             //Same sa master
             _logger = logger;
+            // added new changes
         }
 
         [HttpGet]
