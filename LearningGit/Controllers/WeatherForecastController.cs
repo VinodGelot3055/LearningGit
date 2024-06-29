@@ -20,6 +20,7 @@ namespace LearningGit.Controllers
             //Same sa master
             _logger = logger;
             // added new changes
+            //this is first commit that needs to be reverted
         }
 
         [HttpGet]
