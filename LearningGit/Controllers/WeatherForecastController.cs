@@ -18,11 +18,21 @@ namespace LearningGit.Controllers
             //modified this files and added commment
             // this is for dev branch new
             //Same sa master
+            //This changes for the feature branch
             _logger = logger;
             // added new changes
             //this is first commit that needs to be reverted
             //this is a second cimmite that needs not to be reverted
             //this is a third commit that needs not to be reverted
+            //This changes for the feature branch second commite
+            // This is for reset 1
+            //this is Forbid reset 2
+            //this is Forbid reset 2
+            //this is for reset 3
+            //r4
+            // added new changes
+            //after merge
+            ////This is to reset single file.
         }
 
         [HttpGet]
