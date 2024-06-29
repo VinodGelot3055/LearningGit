@@ -20,6 +20,10 @@ namespace LearningGit.Controllers
             //Same sa master
             //This changes for the feature branch
             _logger = logger;
+            // added new changes
+            //this is first commit that needs to be reverted
+            //this is a second cimmite that needs not to be reverted
+            //this is a third commit that needs not to be reverted
             //This changes for the feature branch second commite
             // This is for reset 1
             //this is Forbid reset 2
