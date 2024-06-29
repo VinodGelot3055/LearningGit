@@ -28,6 +28,7 @@ namespace LearningGit.Controllers
             //r4
             // added new changes
             //after merge
+            ////This is to reset single file.
         }
 
         [HttpGet]
