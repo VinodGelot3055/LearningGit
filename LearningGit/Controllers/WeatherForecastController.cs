@@ -20,6 +20,9 @@ namespace LearningGit.Controllers
             //Same sa master
             _logger = logger;
             // added new changes
+            //this is first commit that needs to be reverted
+            //this is a second cimmite that needs not to be reverted
+            //this is a third commit that needs not to be reverted
         }
 
         [HttpGet]
